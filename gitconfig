@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = elenateske@gmx.net
+	name = Elena Teske
